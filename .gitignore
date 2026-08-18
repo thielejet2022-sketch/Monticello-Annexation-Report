@@ -1,0 +1,14 @@
+# Local and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
+# Sensitive working material must not be committed
+private/
+confidential/
+unreviewed-ora-productions/
+
+# Large local source sets
+raw-sources/
