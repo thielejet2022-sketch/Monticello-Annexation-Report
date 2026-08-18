@@ -2,6 +2,13 @@
 
 Public repository for source-grounded research, reports, corrections, and evidence indexes concerning the City of Monticello annexation and related Mine Lake matters.
 
+## Published record
+
+- [Mine Lake, City Finances, Annexation & Public Trust - issued August 17, 2026](reports/Monticello_Mine_Lake_Investigative_Report_2026-08-17.pdf)
+- [Clarification Addendum No. 1 - issued August 18, 2026](addenda/2026-08-18_Clarification_Addendum_01_GEFA_Principal.md)
+
+**Correction notice:** The original report is preserved exactly as issued. Its characterization of an approximately $89,000 amount as unexplained is superseded by Clarification Addendum No. 1.
+
 ## Publication standard
 
 - Issued reports are preserved as published.
